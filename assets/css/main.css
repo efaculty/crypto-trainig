@@ -1924,3 +1924,7 @@ p {
   border: none !important;
   padding: 0.425rem 0;
 }
+.crypto-bg{
+  background: rgb(164,138,203);
+  background: linear-gradient(157deg, rgba(164,138,203,1) 0%, rgba(70,16,136,1) 100%); 
+}
